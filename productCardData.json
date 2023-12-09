@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": "8781d24e-25a3-440d-b3d4-a070505537e3",
     "title": "Lavish Lakeside Villa",
     "price": "$372000",
     "location": "Location 4, Street 724",
@@ -9,7 +9,7 @@
     "imageUrl": "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/01.jpg"
   },
   {
-    "id": 2,
+    "id": "fd486711-5000-4868-a6fd-4774873cfd19",
     "title": "Executive Business Retreat",
     "price": "$263000",
     "location": "Location 7, Street 308",
@@ -18,7 +18,7 @@
     "imageUrl": "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/02.jpg"
   },
   {
-    "id": 3,
+    "id": "8835d198-24f6-4a6f-8d76-2d96d2a22494",
     "title": "Chic Urban Shophouse",
     "price": "$281000",
     "location": "Location 3, Street 705",
@@ -27,7 +27,7 @@
     "imageUrl": "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/03.jpg"
   },
   {
-    "id": 4,
+    "id": "4abf287f-dbe8-44b1-bda8-7fabdcb5ecff",
     "title": "Tranquil Garden Estate",
     "price": "$142000",
     "location": "Location 1, Street 400",
@@ -36,7 +36,7 @@
     "imageUrl": "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/04.jpg"
   },
   {
-    "id": 5,
+    "id": "36becdfe-c084-4d74-ae6b-95f9e19e4d44",
     "title": "Modern Metropolitan Loft",
     "price": "$480000",
     "location": "Location 2, Street 675",
@@ -45,7 +45,7 @@
     "imageUrl": "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/05.jpg"
   },
   {
-    "id": 6,
+    "id": "590bab4a-6c5e-487e-a348-0f862aac2c70",
     "title": "Cozy Countryside Cottage",
     "price": "$63000",
     "location": "Location 1, Street 696",
@@ -54,7 +54,7 @@
     "imageUrl": "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/06.jpg"
   },
   {
-    "id": 7,
+    "id": "cef08f6d-e26f-4f24-9d7d-c7c16cb812d9",
     "title": "Luxurious Beachfront Bungalow",
     "price": "$349000",
     "location": "Location 2, Street 926",
@@ -63,7 +63,7 @@
     "imageUrl": "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/07.jpg"
   },
   {
-    "id": 8,
+    "id": "88eb3afb-0c93-49bb-b0ca-2e890c656d0e",
     "title": "Sleek Skyline Penthouse",
     "price": "$178000",
     "location": "Location 10, Street 782",
@@ -72,7 +72,7 @@
     "imageUrl": "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/08.jpg"
   },
   {
-    "id": 9,
+    "id": "d6b575a2-a6c1-4310-8806-ac3f3e271bbd",
     "title": "Classic Colonial Mansion",
     "price": "$358000",
     "location": "Location 2, Street 875",
@@ -81,7 +81,7 @@
     "imageUrl": "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/09.jpg"
   },
   {
-    "id": 10,
+    "id": "e726fae8-2927-422a-80d7-ec0edde058bb",
     "title": "Elegant Art Deco Apartment",
     "price": "$240000",
     "location": "Location 9, Street 378",
