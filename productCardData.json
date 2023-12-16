@@ -6,7 +6,19 @@
     "location": "Location 4, Street 724",
     "area": "4 bed | 3 bath | 1409 m2",
     "badge": "11 days ago",
-    "imageUrl": "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/01.jpg"
+    "imageUrl": "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/01.jpg",
+    "imageUrlSlider": [
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/01.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/02.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/03.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/04.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/05.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/06.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/07.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/08.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/09.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/010.jpg"
+    ]
   },
   {
     "id": "fd486711-5000-4868-a6fd-4774873cfd19",
@@ -15,7 +27,19 @@
     "location": "Location 7, Street 308",
     "area": "3 bed | 4 bath | 1185 m2",
     "badge": "13 days ago",
-    "imageUrl": "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/02.jpg"
+    "imageUrl": "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/02.jpg",
+    "imageUrlSlider": [
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/01.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/02.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/03.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/04.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/05.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/06.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/07.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/08.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/09.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/010.jpg"
+    ]
   },
   {
     "id": "8835d198-24f6-4a6f-8d76-2d96d2a22494",
@@ -24,7 +48,19 @@
     "location": "Location 3, Street 705",
     "area": "1 bed | 1 bath | 1255 m2",
     "badge": "9 days ago",
-    "imageUrl": "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/03.jpg"
+    "imageUrl": "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/03.jpg",
+    "imageUrlSlider": [
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/01.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/02.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/03.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/04.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/05.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/06.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/07.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/08.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/09.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/010.jpg"
+    ]
   },
   {
     "id": "4abf287f-dbe8-44b1-bda8-7fabdcb5ecff",
@@ -33,7 +69,19 @@
     "location": "Location 1, Street 400",
     "area": "3 bed | 1 bath | 803 m2",
     "badge": "1 days ago",
-    "imageUrl": "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/04.jpg"
+    "imageUrl": "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/04.jpg",
+    "imageUrlSlider": [
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/01.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/02.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/03.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/04.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/05.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/06.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/07.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/08.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/09.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/010.jpg"
+    ]
   },
   {
     "id": "36becdfe-c084-4d74-ae6b-95f9e19e4d44",
@@ -42,7 +90,19 @@
     "location": "Location 2, Street 675",
     "area": "1 bed | 3 bath | 1001 m2",
     "badge": "15 days ago",
-    "imageUrl": "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/05.jpg"
+    "imageUrl": "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/05.jpg",
+    "imageUrlSlider": [
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/01.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/02.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/03.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/04.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/05.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/06.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/07.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/08.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/09.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/010.jpg"
+    ]
   },
   {
     "id": "590bab4a-6c5e-487e-a348-0f862aac2c70",
@@ -51,7 +111,19 @@
     "location": "Location 1, Street 696",
     "area": "5 bed | 5 bath | 1168 m2",
     "badge": "9 days ago",
-    "imageUrl": "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/06.jpg"
+    "imageUrl": "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/06.jpg",
+    "imageUrlSlider": [
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/01.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/02.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/03.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/04.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/05.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/06.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/07.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/08.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/09.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/010.jpg"
+    ]
   },
   {
     "id": "cef08f6d-e26f-4f24-9d7d-c7c16cb812d9",
@@ -60,7 +132,19 @@
     "location": "Location 2, Street 926",
     "area": "4 bed | 1 bath | 1451 m2",
     "badge": "26 days ago",
-    "imageUrl": "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/07.jpg"
+    "imageUrl": "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/07.jpg",
+    "imageUrlSlider": [
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/01.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/02.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/03.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/04.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/05.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/06.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/07.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/08.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/09.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/010.jpg"
+    ]
   },
   {
     "id": "88eb3afb-0c93-49bb-b0ca-2e890c656d0e",
@@ -69,7 +153,19 @@
     "location": "Location 10, Street 782",
     "area": "2 bed | 2 bath | 842 m2",
     "badge": "2 days ago",
-    "imageUrl": "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/08.jpg"
+    "imageUrl": "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/08.jpg",
+    "imageUrlSlider": [
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/01.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/02.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/03.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/04.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/05.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/06.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/07.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/08.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/09.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/010.jpg"
+    ]
   },
   {
     "id": "d6b575a2-a6c1-4310-8806-ac3f3e271bbd",
@@ -78,7 +174,19 @@
     "location": "Location 2, Street 875",
     "area": "3 bed | 1 bath | 1470 m2",
     "badge": "24 days ago",
-    "imageUrl": "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/09.jpg"
+    "imageUrl": "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/09.jpg",
+    "imageUrlSlider": [
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/01.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/02.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/03.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/04.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/05.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/06.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/07.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/08.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/09.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/010.jpg"
+    ]
   },
   {
     "id": "e726fae8-2927-422a-80d7-ec0edde058bb",
@@ -87,6 +195,18 @@
     "location": "Location 9, Street 378",
     "area": "1 bed | 2 bath | 1210 m2",
     "badge": "16 days ago",
-    "imageUrl": "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/10.jpg"
+    "imageUrl": "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/10.jpg",
+    "imageUrlSlider": [
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/01.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/02.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/03.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/04.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/05.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/06.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/07.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/08.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/09.jpg",
+      "https://materials-resource.s3.ap-southeast-1.amazonaws.com/image/010.jpg"
+    ]
   }
 ]
